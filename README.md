@@ -4,7 +4,8 @@
 **Module:** SIT315 — Distributed and Hybrid Programming  
 **Task:** M4.T1D — Module 4 Project  
 **Student:** Paarthipa Harish  
-**Project Type:** Defensive Cybersecurity Analytics
+**Project Type:** Defensive Cybersecurity Analytics  
+**GitHub Repository:** [CYBERSENTINEL-M4T1D](https://github.com/Paarthipa/CYBERSENTINEL.git)
 
 ---
 
